@@ -1,5 +1,4 @@
 import { ApolloSandbox } from '@apollo/sandbox/react';
-import "./index.css"
 
 function App() {
   return (
